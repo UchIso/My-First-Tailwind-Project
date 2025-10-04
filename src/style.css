@@ -7,16 +7,24 @@
 }
 
 .cart{
-    @apply w-full md:h-auto p-5 rounded-3xl
+    @apply w-full h-auto p-5 rounded-3xl
 }
 
 .Referans{
     @apply bg-[#100e09] w-full h-96 rounded-2xl mb-5 flex items-center justify-center
+    sm:h-60 
+    md:h-72
+    lg:h-60
+    xl:h-64
 }
 
 .Infos{
     box-shadow: inset 0px 0px 15px black;
     @apply h-48 grid items-center justify-start font-bold dark:bg-blue-500/100 rounded-2xl p-5
+    sm:h-28
+    md:h-32
+    lg:h-40
+    xl:h-32
 }
 
 .Hovers{
