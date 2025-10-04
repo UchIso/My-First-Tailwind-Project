@@ -1,5 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.cart{
+    @apply w-full h-auto gap-3 rounded-3xl overflow-hidden
+}
+
+.Infos{
+    @apply bg-stone-500 w-full h-96 p-5
+}

@@ -13,9 +13,6 @@ export default {
           200: `#1C1C1C`
         }
       },
-      fontFamily:{
-        myfont:["Jersey"]
-      }
     },
   },
   plugins: [],
