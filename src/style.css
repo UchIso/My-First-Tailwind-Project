@@ -7,7 +7,7 @@
 }
 
 .cart{
-    @apply w-full h-auto p-5 rounded-3xl overflow-hidden
+    @apply w-full md:h-auto p-5 rounded-3xl
 }
 
 .Referans{
@@ -16,7 +16,7 @@
 
 .Infos{
     box-shadow: inset 0px 0px 15px black;
-    @apply h-28 grid items-center justify-start font-bold dark:bg-blue-500/100 rounded-2xl p-5
+    @apply h-48 grid items-center justify-start font-bold dark:bg-blue-500/100 rounded-2xl p-5
 }
 
 .Hovers{
